@@ -1,15 +1,15 @@
 # Skills
 - skill: python web
-  description: 熟悉mysql,oracle等主流数据库技术, 掌握sqlalchemy ORM框架.
+  description: 熟悉mysql,oracle,mongodb,redis等主流数据库技术, 掌握sqlalchemy ORM框架.
 
 - skill: python 爬虫
   description: 熟悉requests, xlmx等爬虫库, 掌握静态网页爬虫技术.
 
 - skill: 性能测试
-  description: 掌握jmeter, locust测试框架, 熟练编写压测脚本, 熟悉jvm和内存回收机制, 熟悉数据库IO和tomcat性能瓶颈.
+  description: 熟悉jmeter, locust等性能测试框架, 熟练编写压测脚本, 熟悉jvm和内存回收机制, 熟悉数据库IO和tomcat性能瓶颈.
 
 - skill: 自动化测试
-  description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 撰写支付、营销后台业务线的自动化用例, 并且编写mock服务端代码, 熟悉charles抓包.
+  description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 熟练编写支付、营销后台业务线的自动化用例和mock服务端代码驱动微服务全流程, 熟悉charles抓包.
 
 - skill: 机器学习
   description: 了解svm, 决策树, LR算法, 特征工程, 了解scikit-learn, keras的使用.
