@@ -1,18 +1,13 @@
-# Jobs
-# VP of Global Communications
 - company: 陆金所
   position: 测试开发工程师
   duration: 2017年1月 &mdash; 现在
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: 使用java编写支付系统的测试用例，串联多个微服务系统做全流程的代码驱动测试, 多次负责支付、营销、前端的压测, 负责过微信和手机端H5的页面测试, 管理3名外包员工. 负责过支付mock工具与精准测试系统的开发.
 
-# Director of Digital Stratgy
 - company: 易路软件(HR软件)
   position: 时间组开发组长
   duration:  2016年1月 &mdash; 2017年1月
-  summary: 使用python的odoo框架做开发, 被任命为组长维护开发了休假、出差、上下班打卡约半年十多次迭代, 安排3人小组的敏捷排期工作. 独自完成了第三方公司销售人员登记客户信息, 报销记录登记的微信企业号后台功能, 协助同事完成了医药公司员工微信端课程平台的功能.
+  summary: 使用python的odoo框架做开发, 独自完成了第三方公司销售人员登记客户信息, 报销记录登记的微信企业号后台功能, 协助同事完成了医药公司员工微信端课程平台的功能, 维护开发了休假、出差、上下班打卡约半年十多次迭代, 因为表现优异, 升为开发组长, 安排3人小组的敏捷排期工作.
 
-
-# Communications Coordinator
 - company: 华为南研所
   position: 集成开发工程师
   duration:   2015年7月  &mdash; 2016年1月

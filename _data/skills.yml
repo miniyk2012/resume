@@ -1,12 +1,18 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: python web
+  description: 熟悉mysql,oracle等主流数据库技术, 掌握sqlalchemy ORM框架.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: python 爬虫
+  description: 熟悉requests, xlmx等爬虫库, 掌握静态网页爬虫技术.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: 性能测试
+  description: 掌握jmeter, locust测试框架, 熟练编写压测脚本, 熟悉jvm和内存回收机制, 熟悉数据库IO和tomcat性能瓶颈.
+
+- skill: 自动化测试
+description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 撰写支付、营销后台业务线的自动化用例, 并且编写mock服务端代码, 熟悉charles抓包.
+
+- skill: 机器学习
+description: 了解svm, 决策树, LR算法, 特征工程, 了解scikit-learn, keras的使用.
