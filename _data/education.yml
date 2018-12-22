@@ -11,5 +11,7 @@
 - degree: 本科 信息工程
   uni: 华东理工大学
   year: 2007 &mdash; 2011
-  award: 特等奖学金1次, 一等奖学金1次
+  awards:
+    - award: 特等奖学金1次
+    - award: 一等奖学金1次
   summary: 本科期间打下坚实的数学基础
