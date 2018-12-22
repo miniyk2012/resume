@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: 硕士 电磁场与微波技术专业 国家重点实验室
+  uni: 东南大学
+  year: 2012 &mdash; 2015
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 罗德施瓦茨奖学金
+    - award: 东南大学优秀毕业论文
+    - award: 全国研究生数模竞赛二等奖
+  summary: 硕士生期间打下了坚实的算法基础
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 本科 信息工程
+  uni: 华东理工大学
+  year: 2007 &mdash; 2011
+  award: 特等奖学金1次, 一等奖学金1次
+  summary: 本科期间打下坚实的数学基础
