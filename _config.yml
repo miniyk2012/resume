@@ -18,7 +18,7 @@ resume_contact_email:           "yk_ecust_2007@163.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "17717849332"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "上海市浦东新区塘桥宁阳小区12弄2号604室"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
