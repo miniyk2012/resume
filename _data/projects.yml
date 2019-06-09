@@ -58,6 +58,6 @@
     <ul class="resume-item-list">
       <li><a href="https://www.jianshu.com/p/7ae51538ab83" itemprop="url">bilibil拜年祭爬虫</a></li>
       <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个redis ORM框架</a></li>
-      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用mongodb实现的员工录入系统</a></li>
-      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用redis实现的多人聊天室</a></li>
+      <li><a href="http://139.196.141.4:7000/" itemprop="url">一个后端用mongodb实现的员工录入系统</a></li>
+      <li><a href="http://139.196.141.4:7001/" itemprop="url">一个后端用redis实现的多人聊天室</a></li>
     </ul>
