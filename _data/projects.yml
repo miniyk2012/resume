@@ -1,14 +1,35 @@
 # jazznotes.io
 - project: CI流程工具
-  role: 主力开发
-  duration: 2012 &mdash; Present
+  company: 陆金所
+  duration: 2018/3 &mdash; 2018/4
   # url: "#"
-  description: 为了提高开发代码质量，使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具，调用公司内部api做代码的自动部署，调用jenkins api触发测试用例运行，使用JsoupXpath爬取jenkins运行结果并发送邮件。
-  responsibility: 5人团队，作为团队主力负责整体项目统筹设计，将上述功能点设计为多个顺序的task落表，前一个task完成后，才会触发下一个task。并承担了jenkins job触发，查询运行状态和爬取jenkins运行结果的主要task实现。
+  description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
+  responsibility: 5人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
+
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: 精准测试工具
+  company: 陆金所
+  duration: 2017/5 &mdash; 2017/8
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-  responsibility: aa
+  description: 为了减少测试团队工作量提高工作效率, 开发根据开发代码变更搜索测试用例的工具。设计方案为：为测试用例添加Listener, 对比每个测试用例运行的生命周期前后jacoco代码覆盖差异，落入测试用例与开发代码的对应关系表。具有独立的服务器端代码，提供代码检索接口功能。
+  responsibility: 4人团队成员之一, 负责实现前端动态页面功能和jenkins job触发功能.
+
+- project: 考勤系统
+  company: 易路软件
+  duration: 2016/7 &mdash; 2017/1	
+  # url: "#"
+  description: 公司主打产品, 为中大型企业提供员工打卡服务, 可以配置多种元数据, 如工作日, 法定假期, 上下班时间, 年休假天数等, 每天定时任务计算企业员工的考勤结果, 并生成报表为HR查看.
+  responsibility: 作为开发组长在半年多的时间里领导团队完成了十多次产品迭代, 负责员工间的code review, 与产品紧密配合, 不断完善现有产品功能.
+
+- project: 模拟java虚拟机
+  duration: 2017/10 &mdash; 2018/2
+  url: "https://github.com/miniyk2012/miniJVM"
+  description: 为了熟悉java虚拟机和设计模式, 参考网上教程编写的虚拟机项目.
+  responsibility: 课余项目, 加深了java设计模式和JVM的理解.
+
+- project: 从头造spring
+  duration: 2018/4 &mdash; 2018/6	
+  url: "https://github.com/miniyk2012/litespring"
+  description: 参照网上教程，做了一个spring的半成品.
+  responsibility: 课余项目, 加深了java spring的理解.
+
