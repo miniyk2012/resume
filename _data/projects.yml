@@ -33,9 +33,16 @@
   description: 为了理解spring的容器加载原理, 实现的一个spring的半成品.
   responsibility: 课余项目, 加深了java spring的理解.
 
+- project: cousera机器学习和深度学习课程
+  duration: 2018/9  &mdash; 今
+  url: "https://www.coursera.org/account/accomplishments/verify/7RVHTXH3LTAB"
+  description: 学习机器学习和深度学习1、2、3、4课，并拿到课程结业证书; 完成<a href="http://open.163.com/special/opencourse/machinelearning.html" itemprop="url">CS229</a>前十一课的学习, 对机器学习原理有较明确的理解.
+  responsibility: 业余知识拓展, 熟悉了tensorflow, numpy, pandas, mxnet等python数据分析工具，有了对机器学习的初步实践.
+
 - project: 其他项目
   summaryList: 
     <ul class="resume-item-list">
       <li><a href="https://www.jianshu.com/p/7ae51538ab83" itemprop="url">bilibil拜年祭爬虫</a></li>
       <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个redis ORM框架</a></li>
+      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用mongodb实现的多人聊天室</a></li>
     <ul>
