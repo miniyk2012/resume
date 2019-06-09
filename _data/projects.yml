@@ -1,12 +1,14 @@
 - project: 支付、触达、社区业务测试
   company: 陆金所
-  duration: 2017年1月 &mdash; 今在
+  duration: 2017年1月 &mdash; 现在
   # url: "#"
   description: 
     <ol class="resume-item-list">
-      <li>搭建子系统的TestNg环境，串联多个微服务应用做全流程的测试; 编写测试库用于提升测试效率, 编写mock服务器做银行mock.</li>
-      <li>支付测试：承担充值、取现、产品申购、投标、复投、转让、放款、回款、赎回等业务场景的全流程测试.</li>
-      <li>开展大流量和系统升级压测：使用jmeter、locust和visualVm等性能工具做restful接口和前端web页面压测.</li>
+      <li>搭建子系统的TestNg环境, 串联多个java子系统做全流程的测试; 编写测试库用于提升测试效率, 编写mock服务器做银行mock.</li>
+      <li>支付测试：承担代扣、直投、投标、复投、转让、放款、回款、赎回等业务场景的全流程测试.</li>
+      <li>触达测试：负责短信、站内信、微信、邮件、个推功能的测试工作.</li>
+      <li>社区测试：领导3人小组, 负责app的h5页面的发帖、新闻、营销活动的测试工作.</li>
+      <li>开展大流量和系统升级压测, 数据库迁移压测：使用jmeter、locust和visualVm等性能工具做restful接口和前端web页面压测.</li>
     </ol>
   responsibility: 独立支撑触达域9个子系统的业务测试, 3人小队组长负责社区域十多个子系统的h5测试, 11人支付团队骨员工.
 
@@ -57,5 +59,5 @@
       <li><a href="https://www.jianshu.com/p/7ae51538ab83" itemprop="url">bilibil拜年祭爬虫</a></li>
       <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个redis ORM框架</a></li>
       <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用mongodb实现的员工录入系统</a></li>
-      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用mongodb实现的多人聊天室</a></li>
+      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个后端用redis实现的多人聊天室</a></li>
     </ul>
