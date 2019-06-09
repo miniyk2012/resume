@@ -1,9 +1,9 @@
 # Skills
 - skill: python
-  description: 熟练掌握python, 熟悉flask, odoo等web框架, PC端爬虫技术.
+  description: 熟练掌握python, 熟悉flask, odoo等web框架, PC端爬虫技术, pytest测试框架.
 
 - skill: java
-  description: 熟悉spring, jersy, spring MVC, mybatis, freeMarker.
+  description: 熟悉spring, jersy, spring MVC, mybatis, freeMarker, TestNg测试框架.
 
 - skill: 自动化测试
   description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 熟练编写自动化用例, 熟悉charles抓包.
@@ -18,4 +18,4 @@
   description: 熟悉mysql, oracle及其相关存储过程, 熟悉mongodb及其aggregate语法, redis各类数据类型及其‘发布/订阅’模式.
 
 - skill: 持续集成
-  description: 熟悉持续集成流程, 如jenkins, Buildbot等, 能制作docker镜像做开发测试部署, 熟悉阿里云, AWS.
+  description: 熟悉持续集成流程工具, 如jenkins, Buildbot等, 常制作docker镜像做开发测试, 熟悉阿里云, AWS.
