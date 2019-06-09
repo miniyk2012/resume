@@ -33,7 +33,9 @@
   description: 为了理解spring的容器加载原理, 实现的一个spring的半成品.
   responsibility: 课余项目, 加深了java spring的理解.
 
-- project: 其他业余项目
-  description: 
-    <ul class="resume-item-list"><li>A project you are proud of</li>
-    <ul class="resume-item-list"><li>A project you are proud of</li>
+- project: 其他项目
+  summaryList: 
+    <ul class="resume-item-list">
+      <li><a href="https://www.jianshu.com/p/7ae51538ab83" itemprop="url">bilibil拜年祭爬虫</a></li>
+      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个redis ORM框架</a></li>
+    <ul>
