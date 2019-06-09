@@ -30,6 +30,10 @@
 - project: 从头造spring
   duration: 2018/4 &mdash; 2018/6	
   url: "https://github.com/miniyk2012/litespring"
-  description: 参照网上教程，做了一个spring的半成品.
+  description: 为了理解spring的容器加载原理, 实现的一个spring的半成品.
   responsibility: 课余项目, 加深了java spring的理解.
 
+- project: 其他业余项目
+  description: 
+    <ul class="resume-item-list"><li>A project you are proud of</li>
+    <ul class="resume-item-list"><li>A project you are proud of</li>
