@@ -1,13 +1,14 @@
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
+- project: CI流程工具
+  role: 主力开发
   duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
+  description: 为了提高开发代码质量，使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具，调用公司内部api做代码的自动部署，调用jenkins api触发测试用例运行，使用JsoupXpath爬取jenkins运行结果并发送邮件。
+  responsibility: 5人团队，作为团队主力负责整体项目统筹设计，将上述功能点设计为多个顺序的task落表，前一个task完成后，才会触发下一个task。并承担了jenkins job触发，查询运行状态和爬取jenkins运行结果的主要task实现。
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  responsibility: aa
