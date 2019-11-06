@@ -28,6 +28,14 @@
     margin: 0 auto;
     display: block;
   }
+  .github {
+    width: 300px;
+    max-width: 100%;
+    overflow: hidden;
+    @include border-radius(100px);
+    margin: 0 auto;
+    display: block;
+  }
 
   .header-name {
     @include sans;
