@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "杨恺"
-resume_title:                   "java开发工程师"
+resume_title:                   "测试开发工程师"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "yk_ecust_2007@163.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "上海市浦东新区塘桥宁阳小区12弄2�
 resume_header_contact_info:     "陆金所 • 177-1784-9332 • yk_ecust_2007@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>熟悉支付业务, 擅长自动化测试, 自动化爬虫, web开发, 性能测试, 机器学习.</p>"
+resume_header_intro: "<p>熟悉支付业务, flask开发, 喜爱前端开发, 擅长自动化测试, 自动化爬虫, 性能测试, 机器学习.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
