@@ -1,18 +1,18 @@
 - company: 陆金所
   position: 测试开发工程师
   duration: 2017年1月 &mdash; 现在
-  summary: 	团队人数：15人，团队骨干员工。
+  summary: 	团队人数：10人，团队骨干员工.
     <ol>
       <li>使用TestNg编写自动化用例, 串联多个微服务应用做全流程的测试; 编写测试工具包用于提升测试效率.</li>
       <li>支付测试：承担充值、取现、放款、回款、投资，赎回等业务场景的全流程测试.</li>
-      <li>开展大流量和系统升级压测：使用jmeter、locust和visualVm等性能工具做restful接口和前端web页面压测.</li>
       <li>开发精准测试工具(4人团队)：为了减少测试团队工作量提高工作效率, 开发根据开发代码变更搜索测试用例的工具.</li>
-      <li>开发CI流程工具(5人团队, 团队主力)：为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具.</li>
-      <li>文档录入工具(2人团队)：使用react和ant design开发文档录入页面, 使用公司封装的组件和ant design的组件参与了部分页面的编写工作.</li>
+      <li>开发CI流程工具：为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具.</li>
+      <li>job-manager工具：为了兼容新老job, 用flask开发了可以批量触发job运行的页面工具, 使用docker和k8s部署.</li>
       <li>mock工具：维护银行mock服务器, 扩充旧功能, 为平安银行, 平保代, 平安付等渠道编写mock代码.</li>
-      <li>flask web项目：智能问答系统demo, 公司希望做一套遇到测试问题能够自动回复答案的系统, 调研了聊天页面的实现方案, 制作了一个demo.</li>
-      <li>自己写的spring加载器：解析xml配置，初始化BeanDefinition，在从容器中获取对象时做对象的初始化.</li>
+      <li>聊天室demo：公司曾经想做一个智能问答系统, 调研了聊天室的实现方案, 制作了一个demo.</li>
+      <li>spring加载器：为了交接spring的初始化过程而编写, 解析xml配置，初始化BeanDefinition，反射对象加入容器中.</li>
       <li>B站拜年祭爬虫：使用selenium翻页抓取了所有的评论，并使用重试装饰器和异常装饰器，能避免异常场景的发生.</li>
+      <li>开展大流量和系统升级压测：使用jmeter、Locust和visualVm等性能工具做restful接口和前端web页面压测.</li>
     </ol>
 
 - company: 易路软件(HR软件)

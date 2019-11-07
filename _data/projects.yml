@@ -19,6 +19,15 @@
   # url: "#"
   description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
   responsibility: 5人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
+  
+# jazznotes.io
+- project: 新版job-manager
+  company: 陆金所
+  duration: 2019年10月 &mdash; 2019年10月
+  url: "#"
+  description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
+  responsibility: 5人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
+
 
 # Springfield Community Outreach Group
 - project: 精准测试工具
