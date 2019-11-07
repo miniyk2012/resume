@@ -18,4 +18,4 @@
   description: 熟悉mysql, oracle及其存储过程, 了解mongodb, redis数据库, hadoop.
 
 - skill: 持续集成
-  description: 熟悉持续集成流程工具, 如jenkins等, 常制作docker镜像做开发测试, 熟悉阿里云, AWS.
+  description: 熟悉持续集成流程工具, 如jenkins等, 常制作docker镜像做开发测试,  了解阿里云, AWS, K8s.
