@@ -16,7 +16,7 @@
   company: 陆金所
   duration: 2018年3月 &mdash; 2018年4月
   description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
-  responsibility: 5人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
+  responsibility: 4人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
   
 - project: 新版job-manager
   company: 陆金所
@@ -28,7 +28,7 @@
 - project: 精准测试工具
   company: 陆金所
   duration: 2017年5月 &mdash; 2017年8月
-  description: 为了减少测试团队工作量提高工作效率, 开发根据开发代码变更搜索测试用例的工具。设计方案为：为测试用例添加Listener, 对比每个测试用例运行的生命周期前后jacoco代码覆盖差异，落入测试用例与开发代码的对应关系表。具有独立的服务器端代码，提供代码检索接口功能。
+  description: 为了减少测试团队工作量提高工作效率, 开发根据开发代码变更搜索测试用例的工具。设计方案为：为测试用例添加Listener, 对比每个测试用例运行的生命周期前后jacoco代码覆盖差异，落入测试用例与开发代码的对应关系表。具有独立的服务器端代码，提供代码检索接口功能.
   responsibility: 4人团队成员之一, 负责实现前端动态页面功能和jenkins job触发功能.
 
 - project: 考勤系统
