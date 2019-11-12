@@ -21,7 +21,7 @@
 - project: 新版job-manager
   company: 陆金所
   duration: 2019年10月 &mdash; 2019年10月
-  url: "#"
+  url: "https://github.com/miniyk2012/lufax_job_manager"
   description: 使用flask, DBUtils, WebSocket等技术实现的新版job触发工具, 具有美观的前端页面, 多线程执行, 实时反馈job执行结果, 多测试环境切换, 缓存查询结果等功能, 打成docker镜像部署到K8s环境使用, 提高了100%的工作效率.
   responsibility: 独立完成立项, 设计, 开发, 部署工作.
 
