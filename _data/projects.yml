@@ -1,6 +1,6 @@
 - project: 趣头条大数据工具集/平台开发
   company: 趣头条
-  duration: 2020年4月 &mdash; 2020年6月
+  duration: 2020年4月 &mdash; 2020年8月
   description:
     <ol class="resume-item-list">
       <li>造数问题一直困扰着大数据团队, 我针对消息体的特征设计出一套底层造数框架. 将消息的体的构造过程固化, 消息字段设计出随机,枚举,范围策略. 测试人员只需编写几行代码就可以构造出复杂
