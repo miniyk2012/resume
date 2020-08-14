@@ -1,21 +1,18 @@
 # Skills
 - skill: python
-  description: 熟练掌握python, 熟悉flask, odoo等web框架, PC端爬虫技术, pytest测试框架.
+  description: 熟练掌握python, 熟悉flask, django, odoo等web框架, PC端爬虫技术, pytest测试框架.
 
 - skill: java
-  description: 熟悉spring, 了解spring boot, ibatis, freeMarker.
+  description: 熟练使用testng编写测试用例, 了解spring.
 
 - skill: 自动化测试
-  description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 熟练编写自动化用例, 熟悉charles抓包.
+  description: 熟悉TestNG, pytest, unittest测试框架, 擅长制定测试计划.
 
 - skill: 性能测试
-  description: 熟悉jmeter, locust等性能测试框架, 熟练编写压测脚本, 熟悉java和python垃圾回收机制.
-
-- skill: 机器学习
-  description: 了解svm, 决策树, LR算法, 特征工程, numpy, pandas等数据处理库的使用.
+  description: 熟悉jmeter, locust等性能测试框架, 熟练编写压测脚本.
 
 - skill: 数据库
-  description: 熟悉mysql, oracle及其存储过程, 了解mongodb, redis数据库, hadoop.
+  description: 熟悉mysql, oracle, hadoop生态.
 
 - skill: 持续集成
-  description: 熟悉持续集成流程工具, 如jenkins等, 常制作docker镜像做开发测试,  了解阿里云, AWS, K8s.
+  description: 熟悉持续集成流程工具, 如jenkins等, 常制作docker镜像做开发测试,  熟练使用阿里云.

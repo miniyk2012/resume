@@ -1,6 +1,30 @@
+- project: 趣头条mock平台二期开发
+  company: 趣头条
+  duration: 2020年4月 &mdash; 2020年8月
+  description:
+    <ol class="resume-item-list">
+      <li>一期提供了接口级别的mock功能, 经调研发现有业务团队需要同一个接口根据请求参数返回不同响应的需求, 主动提出承担开发任务.</li>
+      <li>短时间上手Gin框架, 调研了moco功能, 设计出符合需求的方案, 绘制原型图, 开发后端功能, 并拉通前端配合完成最终设计.</li>
+      <li>持续维护mock功能, 协助公司各团队接入, 目前已有13个业务团队在使用二期mock功能.</li>
+    </ol>
+  responsibility: 主导mock的设计开发上线配置.
+
+- project: 大数据, 数据管理平台测试
+  company: 趣头条
+  duration: 2019年12月 &mdash; 2020年8月
+  description:
+    <ol class="resume-item-list">
+      <li>负责数据管理平台(DMP)实时圈人项目测试, 该项目使用flink消费线上的用户行为特征信息, 与内存数据库的人群包规则做匹配, 实时计算出每个用户的标签, 编写自动化脚本操作aerospike做各类数据验证</li>
+      <li>负责离线关联数据流测试工作, 该需求使用spark-streaming消费线上展点消信息, 再由解析批处理任务和关联批处理任务聚合离线数据流. 在测试环境造数模拟线上数据流, 验证中间数据和结果数据的准确性, 编写代码做持续监控</li>
+      <li>负责实时数仓的测试工作, 了解数据中台的架构, 测试DIM层, DWS层的各类数据的准确性, 编写代码做持续监控</li>
+      <li>负责实时转化数据流测试, 在测试环境运行flink任务, 编写脚本发送各种类型的数据流消息, 操作hbase做算子级别的数据验证</li>
+      <li>负责用户画像系统重构测试, 用grpc和sdk调用接口同时对比新老套系统100万用户的22个字段, 利用并发技术提高对比速度, 上线0问题.</li>
+    </ol>
+  responsibility: 负责数据管理平台十多个系统的测试工作, 负责大数据近百个任务的测试工作.
+
 - project: 支付、触达、社区业务测试
   company: 陆金所
-  duration: 2017年1月 &mdash; 现在
+  duration: 2017年1月 &mdash; 2019年12月
   # url: "#"
   description: 
     <ol class="resume-item-list">
@@ -37,35 +61,8 @@
   description: 公司主打产品, 为中大型企业提供员工打卡服务, 可以配置多种元数据, 如工作日, 法定假期, 上下班时间, 年休假天数等, 每天定时任务计算企业员工的考勤结果, 并生成报表为HR查看.
   responsibility: 作为开发组长在半年多的时间里领导团队完成了十多次产品迭代, 负责员工间的code review, 与产品紧密配合, 不断完善现有产品功能.
 
-- project: 模拟java虚拟机
-  duration: 2017年10月 &mdash; 2018年2月
-  url: "https://github.com/miniyk2012/miniJVM"
-  description: 为了熟悉java虚拟机和设计模式, 参考网上教程编写的虚拟机项目.
-  responsibility: 课余项目, 加深了java设计模式和JVM的理解.
-
-- project: 从头造spring
-  duration: 2018年4月 &mdash; 2018年6月
-  url: "https://github.com/miniyk2012/litespring"
-  description: 为了理解spring的容器加载原理, 实现的一个spring的半成品.
-  responsibility: 课余项目, 加深了java spring的理解.
-
 - project: cousera机器学习和深度学习课程
-  duration: 2018年9月  &mdash; 现在
+  duration: 2018年9月  &mdash; 2019年6月
   url: "https://www.coursera.org/account/accomplishments/verify/7RVHTXH3LTAB"
   description: 学习机器学习和深度学习1、2、3、4课，并拿到多门课程结业证书; 完成<a href="http://open.163.com/special/opencourse/machinelearning.html" itemprop="url">CS229</a>前十一课的学习, 对机器学习原理有较明确的理解.
   responsibility: 业余知识拓展, 熟悉了tensorflow, numpy, pandas, mxnet等python数据分析工具，有了对机器学习的初步实践.
-
-- project: 记忆小游戏
-  duration: 2019年9月 &mdash; 2019年9月
-  url: "https://github.com/miniyk2012/memory-game_zh"
-  description: 为了提高CSS和js技能, 编写了一个记忆游戏, 具有动画效果, 时钟效果, 挺好玩的.
-  responsibility: 独立完成设计, 开发工作.
-  
-- project: 其他项目
-  summaryList: 
-    <ul class="resume-item-list">
-      <li><a href="https://www.jianshu.com/p/7ae51538ab83" itemprop="url">bilibil拜年祭爬虫</a></li>
-      <li><a href="https://www.jianshu.com/p/4e741d24cff2" itemprop="url">一个redis ORM框架</a></li>
-      <li><a href="http://139.196.141.4:7000/" itemprop="url">一个后端用mongodb实现的员工录入系统</a></li>
-      <li><a href="http://139.196.141.4:7001/" itemprop="url">一个后端用redis实现的多人聊天室</a></li>
-    </ul>
