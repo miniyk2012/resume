@@ -20,7 +20,7 @@ resume_contact_email:           "yk_ecust_2007@163.com"
 resume_contact_telephone:       "17717849332"
 resume_contact_address:         "华夏二路1455弄8号1203室"
 
-resume_header_contact_info:     "陆金所 • 177-1784-9332 • yk_ecust_2007@163.com"
+resume_header_contact_info:     "趣头条 • 177-1784-9332 • yk_ecust_2007@163.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>熟悉支付业务, 熟悉flask/django开发; 熟悉大数据; 擅长自动化测试.</p>"
