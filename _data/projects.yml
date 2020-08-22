@@ -50,12 +50,6 @@
     </ol>
   responsibility: 独立支撑触达域9个子系统的业务测试, 3人小队组长负责社区域十多个子系统的h5测试, 11人支付团队骨员工.
 
-- project: CI流程工具
-  company: 陆金所
-  duration: 2018年3月 &mdash; 2018年4月
-  description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
-  responsibility: 4人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
-  
 - project: 新版job-manager
   company: 陆金所
   duration: 2019年10月 &mdash; 2019年10月
@@ -63,6 +57,12 @@
   description: 使用flask, DBUtils, WebSocket等技术实现的新版job触发工具, 具有美观的前端页面, 多线程执行, 实时反馈job执行结果, 多测试环境切换, 缓存查询结果等功能, 打成docker镜像部署到K8s环境使用, 提高了100%的工作效率.
   responsibility: 独立完成立项, 设计, 开发, 部署工作.
 
+- project: CI流程工具
+  company: 陆金所
+  duration: 2018年3月 &mdash; 2018年4月
+  description: 为了提高开发代码质量, 使用spring boot开发了具备[代码移交自动部署测试统计运行结果功能]的流程工具, 调用公司内部api做代码的自动部署, 调用jenkins api触发测试用例运行, 使用JsoupXpath爬取jenkins运行结果并发送邮件, 具备react前端页面. 设计方案：多个顺序的task落表, 前一个task完成后, 才会触发下一个task执行.
+  responsibility: 4人团队主力, 负责整体项目串联, 并承担了jenkins job触发, 查询运行状态和爬取jenkins结果的功能开发.
+  
 - project: 精准测试工具
   company: 陆金所
   duration: 2017年5月 &mdash; 2017年8月
