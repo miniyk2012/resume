@@ -13,3 +13,6 @@
 
 - skill: 持续集成
   description: jenkins, jacoco, docker, gitlab CI.
+
+- skill: 监控
+  description: prometheus, pushgateway, alertmanager, granfana.
