@@ -9,7 +9,7 @@
   description: 熟悉TestNG, pytest, unittest等测试框架, selenium, airtest等UI测试工具, 能使用jmeter, locust, ghz等做接口或数据库压力测试.
 
 - skill: 数据
-  description: RDBMS(mysql, oracle, postgres), 大数据生态(MapReduce, Spark, Hive, Clickhouse, Kafka, ES, Flink), NoSQL(Redis, CouchDB, MongoDB, aerospike, 时序数据库).
+  description: RDBMS(mysql, oracle, postgres), 大数据生态(MapReduce, Spark, Hive, Clickhouse, Kafka, ES, Flink), NoSQL(Redis, CouchDB, MongoDB, neo4j, aerospike, 时序数据库).
 
 - skill: 持续集成
   description: jenkins, jacoco, docker, gitlab CI.
