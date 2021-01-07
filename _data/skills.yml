@@ -3,7 +3,7 @@
   description: 掌握python, 熟悉java, 了解golang, scala, javascript.
 
 - skill: web
-  description: 熟悉flask, django等web框架, 爬虫, jquery, bootstrap.
+  description: 熟悉flask, django等web框架, 爬虫, grpc, jquery, bootstrap.
 
 - skill: 测试
   description: 熟悉TestNG, pytest, unittest等测试框架, selenium, airtest等UI测试工具, 能使用jmeter, locust, ghz等做接口或数据库压力测试.
