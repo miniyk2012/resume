@@ -1,3 +1,9 @@
+# ByteDance Traffic Difference Platform Operations and Development
+- project: ByteDance Traffic Difference Platform Operations and Development
+  role: Contributor
+  duration: May 2024 &mdash; July 2025
+  description: Responsible for the overall operations, stability, and data migration of the company-level overseas advertising business Diff platform, involving 20+ microservices across 4 global data centers with 1000+ containers and 100+ big data tasks in production and pre-release environments. Established stability assurance standards, led 2 colleagues to complete monitoring configuration, alert dashboards, and emergency guides. After 4 months of joining, monthly task execution increased from 200k to 450k, stability improved from 98% to 99.5%, and task duration reduced by 50%. Continuously iterated on diff platform features using flink/java web/kotlin/gin/hive/spark/kafka/mongo tech stack. Developed the pre-release environment resource recycling system DPE, managing weekly allocation and recycling of 30k CPUs and 50k GB memory in pre-release environments.
+
 # Lark Server-side Test Platform Jetfire
 - project: Lark Server-side Test Platform Jetfire
   role: Owner

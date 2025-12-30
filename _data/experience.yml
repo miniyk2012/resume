@@ -1,6 +1,6 @@
 - company: 字节跳动 - 国际商业化(Global Monetization Product and Technology)
   position: 测试开发工程师
-  duration: 2024年5月 &mdash; 2025年1月
+  duration: 2024年5月 &mdash; 2025年7月
   summary: 负责公司级海外广告业务Diff平台的整体运维/稳定性/数据迁移，涉及线上/预发的20多个微服务全球4机房1000+容器和100+大数据任务；制定稳定性保障规范，带领2个同事完成监控配置/告警大盘/应急指南等，在入组4个月后月均执行任务数从20w增长至45w，稳定性从98%提升至99.5%，任务耗时减少50%。持续迭代diff平台功能，使用flink/java web/kotlin/gin/hive/spark/kafka/mongo等技术栈。研发预发环境资源回收系统DPE，管理预发环境每周3W CPU和5WG MEM的分配和回收。
 
 - company: 字节跳动 - 飞书
