@@ -1,13 +1,47 @@
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# 字节流量Diff系统运维与研发
+- project: 字节流量Diff系统运维与研发
+  role: Contributor
+  duration: 2024年5月 &mdash; 2025年1月
+  description: 公司级海外广告业务Diff平台的整体运维/稳定性/数据迁移，涉及线上/预发的20多个微服务全球4机房1000+容器和100+大数据任务。制定稳定性保障规范，带领2个同事完成监控配置/告警大盘/应急指南等，月均执行任务数从20w增长至45w，稳定性从98%提升至99.5%。7个月持续迭代diff平台功能，使用flink/java web/kotlin/gin/hive/spark/kafka/mongo等技术栈。
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Lark服务端用例平台Jetfire
+- project: Lark服务端用例平台Jetfire
+  role: Owner
+  duration: 2021年3月 &mdash; 2024年5月
+  description: 研发的平台具有用例管理、测试报告、测试计划、用例触发、触达通知、标签筛选、KA多版本、接口覆盖、流水线卡点等功能。接入多版本用例30w条，标签2000+；创建测试计划2000个，日均调度测试计划1w+，测试用例100w+；接入流水线的psm 3000个。平台对整个自动化用例的生命周期完成了闭环治理，为飞书服务端提供日常巡检、流水线卡点、度量等功能。
+
+# Lark低代码平台BBQ
+- project: Lark低代码平台BBQ
+  role: Contributor
+  duration: 2022年8月 &mdash; 2024年5月
+  description: 研发的平台uv>150, pv>4000，接入82个空间，17w+用例，日均运行任务4w+，任务稳定性99.4%。具有低代码用例编写和执行、多控制面聚合为单控制面、模版/函数/多配置变量功能、权限划分和安全管控等功能。完成Jetfire到BBQ的数据迁移、MBT用例生成能力、动态变量生成、变量治理等专项工作。
+
+# Lark私有化部署与调优
+- project: Lark私有化部署与调优
+  role: Owner
+  duration: 2022年1月 &mdash; 2024年5月
+  description: 负责评估服务私有化的依赖，将对网络域名/各类配置/组件依赖等逐项剥离治理，做成KA私有版本。对各类表结构/代码仓库/thrift协议等信息打包并导入到私有化内网，并改造用例执行路由和执行环境。对BBQ系统容量做预估，并在上线后解决各类稳定性问题。目前总计支持了15+环境Jetfire,BBQ双系统的部署。
+
+# Lark自动化框架研发
+- project: Lark自动化框架研发
+  role: Contributor
+  duration: 2021年3月 &mdash; 2024年5月
+  description: 参与Lark自动化框架的研发工作，为飞书服务端提供自动化测试基础设施，支持多个业务线的自动化测试需求。
+
+# 趣头条大数据质量保障系统
+- project: 趣头条大数据质量保障系统
+  role: Core Developer
+  duration: 2019年12月 &mdash; 2021年3月
+  description: 6人团队开发大数据质量保障系统，测试大数据/DMP平台的数百个数据任务和10多个微服务系统，保障数据质量和系统稳定性。
+
+# 趣头条mock平台开发
+- project: 趣头条mock平台开发
+  role: Core Developer
+  duration: 2019年12月 &mdash; 2021年3月
+  description: 设计开发通用mock系统和各类测试工具，提升测试效率和质量。
+
+# 陆金所支付核心、触达域、社区域业务测试
+- project: 陆金所支付核心、触达域、社区域业务测试
+  role: Test Engineer
+  duration: 2017年1月 &mdash; 2019年12月
+  description: 支付测试：承担充值、取现、放款、回款、赎回等业务场景的全流程测试。触达测试：负责短信、站内信、微信、邮件、个推等高性能服务的测试工作。社区测试：领导3人小组，负责app的h5页面的发帖、新闻、营销活动的测试工作。开展大流量和系统升级压测，数据库迁移压测，使用jmeter、locust和visualVm等性能工具。

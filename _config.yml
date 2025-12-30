@@ -18,12 +18,12 @@ resume_contact_email:           "yk_ecust_2007@163.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "17717849332"
-resume_contact_address:         "上海市浦东新区塘桥宁阳小区12弄2号604室"
+resume_contact_address:         "上海市"
 
-resume_header_contact_info:     "陆金所 • 177-1784-9332 • yk_ecust_2007@163.com"
+resume_header_contact_info:     "字节跳动 • 177-1784-9332 • yk_ecust_2007@163.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>专注python web开发, 擅长性能测试, 自动化测试, 自动化爬虫, 课余时间也在从事机器学习和深度学习的实践.</p>"
+resume_header_intro: "<p>擅长ToB业务下多环境/多配置的测试平台和测试框架的设计研发，具有高可用系统/k8s架构设计、数据迁移、容量预估的丰富经验，熟悉分布式系统/大数据计算的设计权衡。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -52,7 +52,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/%E6%81%BA-%E6%9D%A8-0101b6aa/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://miniyk2012.github.io/resume/"
-  resume_medium_url:            https://www.jianshu.com/u/f855b56e9bcc"  
+  resume_medium_url:            "https://www.jianshu.com/u/f855b56e9bcc"
 resume_print_social_links:      true
 
 # Design settings

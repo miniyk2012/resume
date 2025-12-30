@@ -1,15 +1,15 @@
 # Skills
-- skill: python web
-  description: 熟悉mysql,oracle,mongodb,redis等主流数据库技术, 掌握sqlalchemy ORM框架.
+- skill: 服务端开发
+  description: 擅长golang/python/java服务端开发，精通ToB业务下多环境/多配置的测试平台和测试框架的设计研发。
 
-- skill: python 爬虫
-  description: 熟悉requests, xlmx等爬虫库, 掌握静态网页爬虫技术.
+- skill: 高可用系统/k8s
+  description: 具有架构设计/数据迁移/容量预估/任务调优/数据库调优的丰富经验，熟悉容器化部署和k8s集群管理。
 
-- skill: 性能测试
-  description: 熟悉jmeter, locust等性能测试框架, 熟练编写压测脚本, 熟悉jvm和内存回收机制, 熟悉数据库IO和tomcat性能瓶颈.
+- skill: 分布式系统/大数据计算
+  description: 熟悉多副本/数据分片/消息顺序/存储选型等设计权衡，有大数据计算平台的实践经验，使用过flink/spark/hive/kafka等技术栈。
 
-- skill: 自动化测试
-  description: 熟悉TestNG, pytest测试框架, 擅长制定测试计划, 熟练编写支付、营销后台业务线的自动化用例和mock服务端代码驱动微服务全流程, 熟悉charles抓包.
+- skill: 测试平台与工具
+  description: 设计开发过多个测试平台和工具，包括用例管理平台、低代码测试平台、mock系统、大数据质量保障系统等，支持日均百万级用例执行。
 
-- skill: 机器学习
-  description: 了解svm, 决策树, LR算法, 特征工程, 了解scikit-learn, keras的使用.
+- skill: 性能测试与压测
+  description: 具有大流量和系统升级压测经验，熟悉jmeter、locust、visualVm等性能工具，能够进行数据库迁移压测和系统容量评估。

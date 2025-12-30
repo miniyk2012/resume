@@ -2,4 +2,8 @@
 - url: "https://www.jianshu.com/u/f855b56e9bcc"
   description: 简书
 - url: "https://github.com/miniyk2012"
-  description: github
+  description: GitHub
+- url: "https://lark-bbq.bytedance.net"
+  description: BBQ低代码平台（内网）
+- url: "https://jetfire-py.byted.org"
+  description: Jetfire用例平台（内网）
