@@ -1,0 +1,29 @@
+- company: ByteDance - Lark
+  position: Test Development Engineer
+  duration: 2021 &mdash; 2025
+  summary: Worked on the server-side test infrastructure at Lark. Delivered closed-loop governance across 5 frameworks/70+ business lines with 300k+ supported cases. Contributed to Lark's low-code platform BBQ, enabling core capabilities and leading key initiatives (data migration, case generation) with 99.4% task stability. Led privatization deployment of Jetfire/BBQ for key clients, completing 15+ environment adaptations and stability optimizations. Developed/maintained multi-language (Java/Python/Golang) automation frameworks for Lark, supporting end-to-end automated testing. Received ByteDance Individual SpotBonus once.
+
+- company: ByteDance - Global Monetization Product and Technology
+  position: Test Development Engineer
+  duration: 2024 &mdash; 2025
+  summary: Took charge of the maintenance and development of the Traffic Difference Platform. Optimized the pre-release environment resource scheduling system, significantly improving resource utilization and task execution efficiency.
+
+- company: Qutoutiao (QTT)
+  position: Test Development Engineer
+  duration: 2019 &mdash; 2021
+  summary: Tested hundreds of data tasks and over 10 microservice systems for big data/DMP platforms. Developed a big data quality assurance system with a 6-person team. Designed and developed a universal mock system and various testing tools.
+
+- company: Lufax
+  position: Test Development Engineer
+  duration: 2017 &mdash; 2019
+  summary: Payment Testing - Responsible for end-to-end testing of business scenarios including recharge, withdrawal, loan disbursement, repayment, and redemption. Notification Testing - Led testing efforts for high-performance services including SMS, in-app messages, WeChat, email, and push notifications. Community Testing - Managed a 3-person team responsible for testing H5 pages. Performance Testing - Conducted large-scale traffic and system upgrade stress testing, database migration stress testing, using tools like JMeter, Locust, and VisualVM.
+
+- company: Eroad Software
+  position: Development Team Leader
+  duration: 2016 &mdash; 2017
+  summary: Promoted to development team leader within six months due to outstanding performance. Managed a 5-person team (3 developers, 2 testers), responsible for maintaining and developing leave, business trip, and attendance features across more than ten iterations over half a year.
+
+- company: Huawei
+  position: Integration Engineer
+  duration: 2015 &mdash; 2016
+  summary: Responsible for the integration of IPTV software components at Huawei Nanjing Research Institute. Wrote shell automation scripts and used Python scripts to process text files and Excel files.

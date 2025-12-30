@@ -1,0 +1,41 @@
+# Lark Server-side Test Platform Jetfire
+- project: Lark Server-side Test Platform Jetfire
+  role: Owner
+  duration: 2021 &mdash; 2024
+  description: Developed a platform with test case management, test reports, test plans, case triggering, notification delivery, tag filtering, KA multi-version support, API coverage, and pipeline gating features. Integrated 300k+ multi-version test cases with 2000+ tags. Created 2000 test plans with daily scheduling of 10k+ test plans and 1M+ test cases. Integrated 3000 PSMs into pipelines. Delivered closed-loop governance of the entire automated test case lifecycle, providing daily inspection, pipeline gating, and metrics for Lark's server-side.
+
+# Lark Low-Code Platform BBQ
+- project: Lark Low-Code Platform BBQ
+  role: Contributor
+  duration: 2022 &mdash; 2024
+  description: Developed a platform with UV>150, PV>4000, 82 integrated spaces, 170k+ test cases, 40k+ daily task executions, and 99.4% task stability. Features include low-code case writing and execution, multi-control-plane aggregation to single control plane, template/function/multi-config variable capabilities, and permission-based access control with security management. Completed various special projects including Jetfire-to-BBQ data migration, MBT case generation, dynamic variable generation, and variable governance.
+
+# Lark Privatization Deployment and Optimization
+- project: Lark Privatization Deployment and Optimization
+  role: Owner
+  duration: 2022 &mdash; 2024
+  description: Evaluated service privatization dependencies, progressively isolated and managed network domains/configurations/component dependencies to create KA private versions. Packaged and imported table structures/code repositories/thrift protocols into privatized intranets, and modified case execution routing and execution environments. Estimated BBQ system capacity and resolved various stability issues after launch. Supported deployment of Jetfire and BBQ dual systems across 15+ environments.
+
+# Lark Automation Framework Development
+- project: Lark Automation Framework Development
+  role: Contributor
+  duration: 2021 &mdash; 2024
+  description: Participated in the development of Lark automation frameworks, providing automated testing infrastructure for Lark's server-side, supporting automated testing needs across multiple business lines.
+
+# Qutoutiao Big Data Quality Assurance System
+- project: Qutoutiao Big Data Quality Assurance System
+  role: Core Developer
+  duration: 2019 &mdash; 2021
+  description: Developed a big data quality assurance system with a 6-person team. Tested hundreds of data tasks and over 10 microservice systems for big data/DMP platforms, ensuring data quality and system stability.
+
+# Qutoutiao Mock Platform Development
+- project: Qutoutiao Mock Platform Development
+  role: Core Developer
+  duration: 2019 &mdash; 2021
+  description: Designed and developed a universal mock system and various testing tools to improve testing efficiency and quality.
+
+# Lufax Payment Core, Notification Domain, Community Domain Business Testing
+- project: Lufax Payment Core, Notification Domain, Community Domain Business Testing
+  role: Test Engineer
+  duration: 2017 &mdash; 2019
+  description: Payment Testing - Responsible for end-to-end testing of business scenarios including recharge, withdrawal, loan disbursement, repayment, and redemption. Notification Testing - Led testing efforts for high-performance services including SMS, in-app messages, WeChat, email, and push notifications. Community Testing - Managed a 3-person team responsible for testing H5 pages in the app for posting, news, and marketing activities. Conducted large-scale traffic and system upgrade stress testing, database migration stress testing, using tools like JMeter, Locust, and VisualVM.

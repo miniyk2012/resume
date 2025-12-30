@@ -1,0 +1,5 @@
+# English version overrides
+resume_name:                    "Yang Kai"
+resume_title:                   "Test Development Engineer"
+resume_header_contact_info:     "ByteDance • 177-1784-9332 • yk_ecust_2007@163.com"
+resume_header_intro: "<p>Specialized in designing and developing test platforms and test frameworks for ToB business scenarios with multi-environment and multi-configuration support. Rich experience in high-availability systems/k8s architecture design, data migration, and capacity estimation. Familiar with design trade-offs in distributed systems and big data computing.</p>"

@@ -1,0 +1,15 @@
+# Skills
+- skill: Server-Side Development
+  description: Proficient in Golang, Python, and Java server-side development. Specialized in designing and developing test platforms and test frameworks for ToB business scenarios with multi-environment and multi-configuration support.
+
+- skill: High-Availability Systems/k8s
+  description: Rich experience in architecture design, data migration, capacity estimation, task optimization, and database tuning. Familiar with containerized deployment and k8s cluster management.
+
+- skill: Distributed Systems/Big Data Computing
+  description: Familiar with design trade-offs including multi-replica, data sharding, message ordering, and storage selection. Practical experience with big data computing platforms, having used technologies such as Flink, Spark, Hive, and Kafka.
+
+- skill: Test Platform & Tools
+  description: Designed and developed multiple test platforms and tools, including test case management platforms, low-code testing platforms, mock systems, and big data quality assurance systems, supporting millions of daily test case executions.
+
+- skill: Performance Testing & Stress Testing
+  description: Experienced in large-scale traffic and system upgrade stress testing. Familiar with performance tools such as JMeter, Locust, and VisualVM. Capable of conducting database migration stress testing and system capacity evaluation.
