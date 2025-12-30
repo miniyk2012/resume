@@ -3,6 +3,8 @@
   description: 简书
 - url: "https://github.com/miniyk2012"
   description: GitHub
+- url: "#"
+  description: BBQ ToB多租户测试平台分享（外网）
 - url: "https://lark-bbq.bytedance.net"
   description: BBQ低代码平台（内网）
 - url: "https://jetfire-py.byted.org"
