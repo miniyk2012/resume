@@ -44,7 +44,9 @@
         </div>
 
         <div class="executive-summary" itemprop="description">
-          Specialized in designing and developing test platforms and frameworks for ToB businesses with multi-environment/multi-configuration support. Extensive experience in high-availability system/k8s architecture design, data migration, and capacity estimation. Familiar with design trade-offs in distributed systems and big data computing.
+          <p>Specialized in designing and developing test platforms and frameworks for ToB businesses with multi-environment/multi-configuration support.</p>
+          <p>Extensive experience in high-availability system/k8s architecture design, data migration, and capacity estimation.</p>
+          <p>Familiar with design trade-offs in distributed systems and big data computing.</p>
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
@@ -155,7 +157,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <p class="resume-item-copy">{{ recognition.summary | newline_to_br }}</p>
         </div>
         {% endfor %}
 
