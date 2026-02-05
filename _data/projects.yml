@@ -1,7 +1,7 @@
 # 字节流量Diff系统运维与研发
 - project: 字节流量Diff系统运维与研发
   role: Contributor
-  duration: 2024年5月 &mdash; 2025年7月
+  duration: 2024年5月 &mdash; 2026年2月
   description: 公司级海外广告业务Diff平台的整体运维/稳定性/数据迁移，涉及线上/预发的20多个微服务全球4机房1000+容器和100+大数据任务。制定稳定性保障规范，带领2个同事完成监控配置/告警大盘/应急指南等，月均执行任务数从20w增长至45w，稳定性从98%提升至99.5%。7个月持续迭代diff平台功能，使用flink/java web/kotlin/gin/hive/spark/kafka/mongo等技术栈。
 
 # Lark服务端用例平台Jetfire
